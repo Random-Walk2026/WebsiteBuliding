@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'Sharing Insights on AI ',
+  HEO_HERO_TITLE_1: 'Sharing Insights on AI, Finance',
   HEO_HERO_TITLE_2: 'and Metaphysics Knowledge',
   HEO_HERO_TITLE_3: 'LAMJINLAB.COM',
   HEO_HERO_TITLE_4: 'New Version Released',
